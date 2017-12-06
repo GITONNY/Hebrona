@@ -1,0 +1,4 @@
+C:\workspace\LEARN\Hebrona\Hebrona.Model\bin\Debug\Hebrona.Model.dll
+C:\workspace\LEARN\Hebrona\Hebrona.Model\bin\Debug\Hebrona.Model.pdb
+C:\workspace\LEARN\Hebrona\Hebrona.Model\obj\Debug\Hebrona.Model.dll
+C:\workspace\LEARN\Hebrona\Hebrona.Model\obj\Debug\Hebrona.Model.pdb

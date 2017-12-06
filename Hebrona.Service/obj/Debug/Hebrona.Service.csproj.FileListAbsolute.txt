@@ -1,0 +1,4 @@
+C:\workspace\LEARN\Hebrona\Hebrona.Service\bin\Debug\Hebrona.Service.dll
+C:\workspace\LEARN\Hebrona\Hebrona.Service\bin\Debug\Hebrona.Service.pdb
+C:\workspace\LEARN\Hebrona\Hebrona.Service\obj\Debug\Hebrona.Service.dll
+C:\workspace\LEARN\Hebrona\Hebrona.Service\obj\Debug\Hebrona.Service.pdb
